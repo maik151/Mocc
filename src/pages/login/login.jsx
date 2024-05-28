@@ -65,7 +65,10 @@ function Login() {
           </div>
         </form>
       </div>
+      <span>estructura de la base de datos</span>
     </div>
+
+      
   );
 }
 
